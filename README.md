@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm a Computer Science student from Joensuu, Finland. I study cyber security as minor and I'm interested in network administration.
+Hi! I'm a Computer Science student from Joensuu, Finland. I study cyber security as minor and I'm interested in full stack development.
 
 I'm also a professional pedagogy and musician.
 
